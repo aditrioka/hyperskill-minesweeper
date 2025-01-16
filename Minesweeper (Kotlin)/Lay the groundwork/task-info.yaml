@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/minesweeper/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/MinesweeperTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/8/stages/46/implement#comment
+status: Failed
+feedback:
+  message: |-
+    Error in test #1
+
+    Program ran out of input. You tried to read more than expected.
+
+    Please find below the output of your program during this failed test.
+
+    ---
+
+    How many mines do you want on the field?
+  time: "Wed, 15 Jan 2025 07:44:27 UTC"
+record: 1

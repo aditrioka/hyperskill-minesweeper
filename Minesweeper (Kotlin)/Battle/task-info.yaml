@@ -1,0 +1,15 @@
+type: edu
+custom_name: Battle!
+files:
+  - name: src/minesweeper/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/MinesweeperTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/8/stages/469/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 16 Jan 2025 04:52:31 UTC"
+record: 5

@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/minesweeper/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/MinesweeperTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/8/stages/47/implement#comment
+status: Solved
+record: 2
